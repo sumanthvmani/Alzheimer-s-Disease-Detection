@@ -1,0 +1,2 @@
+Dataset 1 :https://www.kaggle.com/datasets/ninadaithal/imagesoasis
+Daataset 2: https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset
